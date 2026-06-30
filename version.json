@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "6.0.1",
-  "apkUrl": "https://github.com/marzo245/enelMedidaAnticipada-update/releases/download/v6.0.1/app-debug.apk",
-  "changelog": "Versión 6.0.1: unifica versionName entre app y CI\n\nEl workflow ahora lee el versionName desde Gradle (printVersionName)\nen vez de calcularlo aparte, evitando desfases con el APK.\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>\n"
+  "versionCode": 27,
+  "versionName": "6.0.2",
+  "apkUrl": "https://github.com/marzo245/enelMedidaAnticipada-update/releases/download/v6.0.2/app-debug.apk",
+  "changelog": "Reescribe README con estructura moderna y sección de actualización in-app\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>\n"
 }
