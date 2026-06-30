@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.25",
-  "apkUrl": "https://github.com/marzo245/enelMedidaAnticipada-update/releases/download/v1.0.25/app-debug.apk",
-  "changelog": "Sistema de actualización in-app sin Play Store\n\nDetecta nuevas versiones al abrir y permite actualizar desde la app.\nCada push a main compila y publica el APK automáticamente.\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>\n"
+  "versionCode": 26,
+  "versionName": "6.0.1",
+  "apkUrl": "https://github.com/marzo245/enelMedidaAnticipada-update/releases/download/v6.0.1/app-debug.apk",
+  "changelog": "Versión 6.0.1: unifica versionName entre app y CI\n\nEl workflow ahora lee el versionName desde Gradle (printVersionName)\nen vez de calcularlo aparte, evitando desfases con el APK.\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>\n"
 }
