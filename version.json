@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "6.0.3",
-  "apkUrl": "https://github.com/marzo245/enelMedidaAnticipada-update/releases/download/v6.0.3/app-debug.apk",
-  "changelog": "Bump de version para publicar actualizacion a usuarios\n\nCo-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>\n"
+  "versionCode": 29,
+  "versionName": "6.0.4",
+  "apkUrl": "https://github.com/marzo245/enelMedidaAnticipada-update/releases/download/v6.0.4/app-debug.apk",
+  "changelog": "Mejoras y correcciones de la aplicacion"
 }
